@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "OV5640-dual-camera-board-footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/OV5640-dual-camera-board-footprints")(options "")(descr ""))
+)
