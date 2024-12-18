@@ -1,6 +1,6 @@
 # Antmicro's OV5640 Dual Camera Board
 
-Copyright (c) 2017-2023 [Antmicro](https://www.antmicro.com)
+Copyright (c) 2017-2024 [Antmicro](https://www.antmicro.com)
 
 ![OV5640 Dual Camera Board](/img/ov5640-dual-camera-board.png)
 
